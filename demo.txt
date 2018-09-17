@@ -1,0 +1,3 @@
+Just working on the EDX class
+
+Things will work...
